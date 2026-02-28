@@ -9,7 +9,7 @@ Ce projet est un système de gestion de pharmacie interactif développé en lang
 - **Système de commande :** Génération automatique de bons de commande et gestion des rendus de monnaie.
 
 ## Aperçu
-![Menu Principal](pharmacie/Capture_d'écran_2026-02-28_062915.png)
+![Menu Principal](pharmacie/Capture d'écran 2026-02-28 062915.png)
 ![Tableau de Stock](pharmacie/Captured_'écran_2026-02-28_063612.png)
 
 ## Technologies utilisées
