@@ -10,7 +10,7 @@ Ce projet est un système de gestion de pharmacie interactif développé en lang
 
 ## Aperçu
 ![Menu Principal](pharmacie/Capture%20d'écran%202026-02-28%20062915.png)
-![Tableau de Stock](pharmacie/Capture%d_'écran%2026-02-28%063612.png)
+![Tableau de Stock](pharmacie/Capture%20d'écran%2026-02-28%063612.png)
 
 ## Technologies utilisées
 - Langage C
